@@ -1,7 +1,7 @@
 # Machine-Learning-models
 Implementation of certain machine learning models from scratch using Numpy for the course Machine Learning and Artificial Intelligence for Engineers at Carnegie Mellon University. A slight overview of the models covered
 
-Homework 1
+Homework 1<br />
 q1.  Linear Regression
 q2.  EXperiments using gradient descent and mini batch gradient descent
 
